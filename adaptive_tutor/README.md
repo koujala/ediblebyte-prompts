@@ -4,7 +4,7 @@ This folder contains prompts and resources for creating adaptive tutoring AI sys
 
 ## Overview
 
-Adaptive tutoring leverages artificial intelligence to create personalized learning paths that adjust in real-time to each student's:
+Adaptive tutoring leverages AI to create personalized learning paths that adjust in real time to each student's:
 
 - Current knowledge level
 - Learning pace and style
@@ -14,32 +14,15 @@ Adaptive tutoring leverages artificial intelligence to create personalized learn
 
 ## Files
 
-- `tutor.md`: System prompt template for adaptive tutor AI assistants
+- [`tutor.md`](tutor.md) — system prompt template for an adaptive tutor.
 
 ## Usage
 
-We recommend running this prompt inside a **Project** in either ChatGPT or Claude. Projects keep your tutor's instructions, memory, and uploaded files scoped to one workspace, so each learning journey stays isolated and resumable.
-
-### ChatGPT Projects
-
-1. Click **New Project** in the left sidebar.
-2. Open **Settings** and select **Project-Only** memory.
-3. Name it (e.g., *My Tutor*) and click **Create Project**. The project should auto-open; if not, open it from the sidebar.
-4. Optional: click the default folder icon next to the title to set a custom color and icon.
-5. Click the **three-dot menu** → **Project settings**. From here you can rename the project and add **Instructions** — paste the contents of [`tutor.md`](tutor.md) into the Instructions field.
-6. Use the **Sources** button inside the project to attach reference files (textbooks, notes, syllabi) whenever needed.
-
-### Claude Projects
-
-1. Click **Projects** in the left panel, then **Create Project** (next to the project title).
-2. Give it a name and description.
-3. Once the project opens, you'll have options to manage **memory**, add **instructions**, and upload **files**.
-4. Paste the contents of [`tutor.md`](tutor.md) into the **Instructions** section.
-5. Attach any supporting files (course materials, prior notes) via the files option.
+This prompt works best inside a ChatGPT or Claude **Project** so each learning journey stays isolated and resumable. Follow the Project setup steps in the root [`USAGE.md`](../USAGE.md), and paste [`tutor.md`](tutor.md) into the project's **Instructions** field.
 
 Once set up, start a new chat inside the project and replace `[SUBJECT]` and `[TIMEFRAME]` in your first message — the tutor will generate your full learning plan before beginning.
 
-## Related Topics
+## Related topics
 
 - Personalized learning
 - Intelligent tutoring systems

@@ -33,11 +33,7 @@ Companion prompt libraries for multi-part article series published on [ediblebyt
 
 ## How to use a prompt
 
-For one-off use:
-
-1. Open the prompt file, copy the contents into ChatGPT or Claude, replace the bracketed placeholders, and send.
-
-For recurring use, paste the prompt into the **Instructions** field of a ChatGPT or Claude *Project* so it becomes a persistent workspace — see [`adaptive_tutor/README.md`](adaptive_tutor/README.md) for setup steps that apply to any prompt in this repo.
+See [`USAGE.md`](USAGE.md) for one-off use and for step-by-step ChatGPT / Claude *Project* setup that applies to every prompt in this repo.
 
 ## Contributing
 
