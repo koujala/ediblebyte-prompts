@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/eb-logo.png" alt="EdibleByte" width="140">
+</p>
+
 # EdibleByte Prompts Library
 
 A curated collection of specialized prompts for AI assistants (ChatGPT, Claude, and others), designed for real use in learning, thinking, writing, planning, and working with AI deliberately.
