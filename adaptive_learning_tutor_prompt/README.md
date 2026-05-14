@@ -1,3 +1,8 @@
+---
+title: Adaptive Learning Tutor Prompt
+source: https://www.ediblebyte.com/publications/folder_learning/adaptive_learning_tutor_prompt
+---
+
 # Adaptive Tutor Prompts
 
 This folder contains prompts and resources for creating adaptive tutoring AI systems that can personalize educational experiences based on individual learner characteristics, progress, and needs.

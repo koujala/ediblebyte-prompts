@@ -1,3 +1,8 @@
+---
+title: Gen AI Mastery Series
+source: https://www.ediblebyte.com/publications/series_master_genai
+---
+
 # Series Master: GenAI Prompts
 
 Companion prompt library for the **Gen AI Mastery** series on [ediblebyte.com](https://www.ediblebyte.com/publications/series_master_genai). Each folder maps to one article; each prompt inside is a standalone, reusable template drawn from that article.
